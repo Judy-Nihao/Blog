@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://judy-nihao.github.io/judy-nihao/Blog/blog</id>
-    <title>My Site Blog</title>
+    <title>Judy的前端技術筆記 Blog</title>
     <updated>2023-01-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://judy-nihao.github.io/judy-nihao/Blog/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Judy的前端技術筆記 Blog</subtitle>
     <icon>https://judy-nihao.github.io/judy-nihao/Blog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Test Blog Post]]></title>
