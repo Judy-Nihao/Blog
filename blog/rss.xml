@@ -4,9 +4,16 @@
         <title>My Site Blog</title>
         <link>https://judy-nihao.github.io/judy-nihao/Blog/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Test Blog Post]]></title>
+            <link>https://judy-nihao.github.io/judy-nihao/Blog/blog/test-blog-post-test</link>
+            <guid>test-blog-post-test</guid>
+            <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[這是測試的一篇Blog貼文！]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://judy-nihao.github.io/judy-nihao/Blog/blog/welcome</link>
@@ -30,8 +37,8 @@
         </item>
         <item>
             <title><![CDATA[First Blog Post]]></title>
-            <link>https://judy-nihao.github.io/judy-nihao/Blog/blog/first-blog-post</link>
-            <guid>first-blog-post</guid>
+            <link>https://judy-nihao.github.io/judy-nihao/Blog/blog/first-blog-post-test</link>
+            <guid>first-blog-post-test</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
         </item>

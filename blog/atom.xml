@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://judy-nihao.github.io/judy-nihao/Blog/blog</id>
     <title>My Site Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-01-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://judy-nihao.github.io/judy-nihao/Blog/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://judy-nihao.github.io/judy-nihao/Blog/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Test Blog Post]]></title>
+        <id>test-blog-post-test</id>
+        <link href="https://judy-nihao.github.io/judy-nihao/Blog/blog/test-blog-post-test"/>
+        <updated>2023-01-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[這是測試的一篇Blog貼文！]]></summary>
+        <author>
+            <name>Judy Chen</name>
+            <uri>https://github.com/Judy-Nihao</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
@@ -29,8 +40,8 @@
         <updated>2021-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
         <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
+            <name>Judy Chen</name>
+            <uri>https://github.com/Judy-Nihao</uri>
         </author>
     </entry>
     <entry>
@@ -46,8 +57,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>first-blog-post</id>
-        <link href="https://judy-nihao.github.io/judy-nihao/Blog/blog/first-blog-post"/>
+        <id>first-blog-post-test</id>
+        <link href="https://judy-nihao.github.io/judy-nihao/Blog/blog/first-blog-post-test"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
         <author>
