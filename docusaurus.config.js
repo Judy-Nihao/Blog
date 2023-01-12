@@ -4,8 +4,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Judy的前端技術筆記',
+  tagline: 'There are no mistakes, only lessons. Growth is a process of trial, error, and experimentation.',
   url: 'https://judy-nihao.github.io/judy-nihao',
   baseUrl: '/Blog/',
   onBrokenLinks: 'throw',
@@ -41,7 +41,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Judy的前端筆記',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -104,7 +104,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Judy's Blog. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
