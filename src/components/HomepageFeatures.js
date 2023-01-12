@@ -4,12 +4,16 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '自我介紹',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        這裡是一段關於Judy個人的自我介紹文字放置區。
+        <ul>
+        <li>這裡是一段關於Judy個人的自我介紹文字放置區。</li>
+        <li>這裡是一段關於Judy個人的自我介紹文字放置區。</li>
+        <li>這裡是一段關於Judy個人的自我介紹文字放置區。</li>
+        </ul>
       </>
     ),
   },

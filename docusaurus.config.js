@@ -22,7 +22,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://Judy-Nihao.github.io/Blog/edit/main/website/',
+          editUrl: undefined,
         },
         blog: {
           showReadingTime: true,
