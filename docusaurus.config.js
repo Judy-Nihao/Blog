@@ -24,11 +24,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           // Please change this to your repo.
           editUrl: undefined,
         },
-        blog: {
+        blog: {  
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://Judy-Nihao.github.io/Blog/edit/main/website/blog/',
+          editUrl: undefined,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -70,6 +69,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               {
                 label: 'Tutorial',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Google',
+                href: 'https://www.google.com.tw',
               },
             ],
           },
